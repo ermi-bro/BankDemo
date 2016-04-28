@@ -8,4 +8,9 @@ by Tefera
 4. See if revert is working well
 =======
 3. Can I change the readme
+<<<<<<< HEAD
 >>>>>>> parent of 0e41de2... see if undo is working
+=======
+4. See undo is working well
+5. Add a line 
+>>>>>>> origin/master
