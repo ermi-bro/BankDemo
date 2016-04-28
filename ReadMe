@@ -3,5 +3,9 @@ by Tefera
 ## This will be large
 1. List of tasks
 2. Make some changes
+<<<<<<< HEAD
 3. Change the readme file
 4. See if revert is working well
+=======
+3. Can I change the readme
+>>>>>>> parent of 0e41de2... see if undo is working
