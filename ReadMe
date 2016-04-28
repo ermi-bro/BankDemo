@@ -1,5 +1,7 @@
 This is the readme for the demo
 by Tefera
+
+Make some change on first line
 ## This will be large
 1. List of tasks
 2. Make some changes
@@ -12,5 +14,5 @@ by Tefera
 >>>>>>> parent of 0e41de2... see if undo is working
 =======
 4. See undo is working well
-5. Add a line 
+5. Add a line
 >>>>>>> origin/master
